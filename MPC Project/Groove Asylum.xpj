@@ -43,6 +43,12 @@
     <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro E4.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro F#4.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Treasure Intro.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\Valerie First Verse Outro Bells A#3.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\Valerie First Verse Outro Bells G#3.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\Valerie First Verse Outro Bells G3.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\Valerie First Verse Wind A#2.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\Valerie First Verse Wind C3.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\Valerie First Verse Wind D3.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Valerie Sax A#2.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Valerie Sax C3.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Valerie Sax D3.WAV</File>
@@ -50,11 +56,11 @@
     <File>.\Groove Asylum_[ProjectData]\Midi 001.Midi.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Get Lucky.Drum.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Long Train Running Bongos.Drum.xpm</File>
-    <File>.\Groove Asylum_[ProjectData]\Valerie.Drum.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Crazy.Keygroup.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Le Freak.Drum.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Treasure.Drum.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger.Keygroup.xpm</File>
+    <File>.\Groove Asylum_[ProjectData]\Valerie.Keygroup.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Audio 001.Audio.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Midi Controller.mcn</File>
   </FileList>
