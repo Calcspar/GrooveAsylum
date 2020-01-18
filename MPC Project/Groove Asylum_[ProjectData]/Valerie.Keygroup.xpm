@@ -232,7 +232,7 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.409449</VolumeAttack>
+        <VolumeAttack>0.385827</VolumeAttack>
         <VolumeDecay>0.535714</VolumeDecay>
         <VolumeSustain>0.750000</VolumeSustain>
         <VolumeRelease>0.678571</VolumeRelease>
@@ -1625,10 +1625,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.000000</VolumeRelease>
+        <VolumeAttack>0.472441</VolumeAttack>
+        <VolumeDecay>0.393701</VolumeDecay>
+        <VolumeSustain>0.763780</VolumeSustain>
+        <VolumeRelease>0.771654</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -1639,7 +1639,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>105.999001</WarpTempo>
+        <WarpTempo>70.666466</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1663,13 +1663,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Chorus Strings F3 F2 Normalised</SampleName>
+            <SampleName>Valerie Chorus Strings G4 D4 A#3 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>99849</SliceEnd>
+            <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
@@ -1787,9 +1787,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <LowNote>5</LowNote>
+        <HighNote>5</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -1824,10 +1824,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.000000</VolumeRelease>
+        <VolumeAttack>0.433071</VolumeAttack>
+        <VolumeDecay>0.409449</VolumeDecay>
+        <VolumeSustain>0.677165</VolumeSustain>
+        <VolumeRelease>0.724409</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -1838,7 +1838,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>70.666466</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1862,16 +1862,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>Valerie Chorus Strings F4 C4 G#3 F3 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1987,8 +1987,8 @@
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
         <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <HighNote>0</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -2023,10 +2023,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.000000</VolumeRelease>
+        <VolumeAttack>0.511811</VolumeAttack>
+        <VolumeDecay>0.456693</VolumeDecay>
+        <VolumeSustain>0.653543</VolumeSustain>
+        <VolumeRelease>0.716535</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -2037,7 +2037,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>70.666466</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2061,13 +2061,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>Valerie Chorus Strings C4 C3 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
@@ -2185,9 +2185,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <LowNote>1</LowNote>
+        <HighNote>1</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -2222,10 +2222,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.000000</VolumeRelease>
+        <VolumeAttack>0.456693</VolumeAttack>
+        <VolumeDecay>0.377953</VolumeDecay>
+        <VolumeSustain>0.669291</VolumeSustain>
+        <VolumeRelease>0.692913</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -2236,7 +2236,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>70.666466</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2260,16 +2260,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>Valerie Chorus Strings A#3 A#2 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2384,9 +2384,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <LowNote>2</LowNote>
+        <HighNote>2</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -2421,10 +2421,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.000000</VolumeRelease>
+        <VolumeAttack>0.669291</VolumeAttack>
+        <VolumeDecay>0.511811</VolumeDecay>
+        <VolumeSustain>0.960630</VolumeSustain>
+        <VolumeRelease>1.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -2435,7 +2435,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>105.999001</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2459,13 +2459,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>Valerie Chorus Strings F3 F2 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>99849</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
