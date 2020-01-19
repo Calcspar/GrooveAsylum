@@ -1028,10 +1028,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.785714</VolumeRelease>
+        <VolumeAttack>0.322835</VolumeAttack>
+        <VolumeDecay>0.464286</VolumeDecay>
+        <VolumeSustain>0.724409</VolumeSustain>
+        <VolumeRelease>0.740157</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -1066,16 +1066,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Chorus D#5</SampleName>
+            <SampleName>Crazy Chorus Strings D#5 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>94499</SliceEnd>
+            <SliceEnd>377999</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1227,10 +1227,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.785714</VolumeRelease>
+        <VolumeAttack>0.511811</VolumeAttack>
+        <VolumeDecay>0.519685</VolumeDecay>
+        <VolumeSustain>0.661417</VolumeSustain>
+        <VolumeRelease>0.692913</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -1265,16 +1265,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Chorus G4</SampleName>
+            <SampleName>Crazy Chorus Strings G4 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>94499</SliceEnd>
+            <SliceEnd>377999</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1464,16 +1464,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Chorus C5</SampleName>
+            <SampleName>Crazy Chorus Strings C5 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>94499</SliceEnd>
+            <SliceEnd>377999</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1625,9 +1625,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.259843</VolumeAttack>
+        <VolumeDecay>0.448819</VolumeDecay>
+        <VolumeSustain>0.748031</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -1639,7 +1639,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>20.000000</WarpTempo>
+        <WarpTempo>112.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1663,16 +1663,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Chorus D5</SampleName>
+            <SampleName>Crazy Chorus Strings D5 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>236249</SliceEnd>
+            <SliceEnd>377999</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
