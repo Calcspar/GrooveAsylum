@@ -232,8 +232,8 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.480315</VolumeAttack>
-        <VolumeDecay>0.428571</VolumeDecay>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
         <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
@@ -431,9 +431,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.392857</VolumeAttack>
-        <VolumeDecay>0.488189</VolumeDecay>
-        <VolumeSustain>0.299213</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -630,9 +630,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.307087</VolumeAttack>
-        <VolumeDecay>0.275591</VolumeDecay>
-        <VolumeSustain>0.456693</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -829,9 +829,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.322835</VolumeAttack>
-        <VolumeDecay>0.220472</VolumeDecay>
-        <VolumeSustain>0.511811</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.700787</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -1028,9 +1028,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.322835</VolumeAttack>
-        <VolumeDecay>0.464286</VolumeDecay>
-        <VolumeSustain>0.724409</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.740157</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -1227,9 +1227,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.511811</VolumeAttack>
-        <VolumeDecay>0.519685</VolumeDecay>
-        <VolumeSustain>0.661417</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.692913</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -1426,9 +1426,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -1625,9 +1625,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.259843</VolumeAttack>
-        <VolumeDecay>0.448819</VolumeDecay>
-        <VolumeSustain>0.748031</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -1824,9 +1824,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -1838,7 +1838,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>58.000000</WarpTempo>
+        <WarpTempo>107.872673</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1862,16 +1862,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Second Verse C3</SampleName>
+            <SampleName>Crazy Verse 2 Vox C3 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>661499</SliceEnd>
+            <SliceEnd>472499</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2023,9 +2023,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -2037,7 +2037,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>58.000000</WarpTempo>
+        <WarpTempo>162.716537</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2061,13 +2061,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Second Verse G#2</SampleName>
+            <SampleName>Crazy Verse 2 Vox G#2 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>661499</SliceEnd>
+            <SliceEnd>472499</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
@@ -2222,10 +2222,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.785714</VolumeRelease>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
+        <VolumeRelease>0.653543</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -2236,7 +2236,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>58.000000</WarpTempo>
+        <WarpTempo>118.054596</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2260,16 +2260,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Second Verse A#2</SampleName>
+            <SampleName>Crazy Verse 2 Vox A#2 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>661499</SliceEnd>
+            <SliceEnd>472499</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2421,9 +2421,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -2435,7 +2435,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>91.250000</WarpTempo>
+        <WarpTempo>113.936661</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2459,16 +2459,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Second Verse G2</SampleName>
+            <SampleName>Crazy Verse 2 Vox G2 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>661499</SliceEnd>
+            <SliceEnd>472499</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2620,9 +2620,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -2634,7 +2634,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>58.000000</WarpTempo>
+        <WarpTempo>72.411247</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2658,13 +2658,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Second Verse D#3</SampleName>
+            <SampleName>Crazy Verse 2 Vox D#3 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>661499</SliceEnd>
+            <SliceEnd>1795499</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
@@ -2819,9 +2819,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -2833,7 +2833,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>58.000000</WarpTempo>
+        <WarpTempo>156.007797</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2857,16 +2857,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Crazy Strings Second Verse B2</SampleName>
+            <SampleName>Crazy Verse 2 Vox B2 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>661499</SliceEnd>
+            <SliceEnd>1795499</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -3018,9 +3018,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -3217,9 +3217,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -3416,9 +3416,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -3615,9 +3615,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -3814,9 +3814,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -4013,9 +4013,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -4212,9 +4212,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -4411,9 +4411,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -4610,9 +4610,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -4809,9 +4809,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -5008,9 +5008,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -5207,9 +5207,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -5406,9 +5406,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -5605,9 +5605,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -5804,9 +5804,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -6003,9 +6003,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -6202,9 +6202,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -6401,9 +6401,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -6600,9 +6600,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -6799,9 +6799,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -6998,9 +6998,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -7197,9 +7197,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -7396,9 +7396,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -7595,9 +7595,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -7794,9 +7794,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -7993,9 +7993,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -8192,9 +8192,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -8391,9 +8391,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -8590,9 +8590,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -8789,9 +8789,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -8988,9 +8988,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -9187,9 +9187,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -9386,9 +9386,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -9585,9 +9585,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -9784,9 +9784,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -9983,9 +9983,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -10182,9 +10182,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -10381,9 +10381,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -10580,9 +10580,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -10779,9 +10779,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -10978,9 +10978,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -11177,9 +11177,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -11376,9 +11376,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -11575,9 +11575,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -11774,9 +11774,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -11973,9 +11973,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -12172,9 +12172,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -12371,9 +12371,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -12570,9 +12570,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -12769,9 +12769,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -12968,9 +12968,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -13167,9 +13167,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -13366,9 +13366,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -13565,9 +13565,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -13764,9 +13764,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -13963,9 +13963,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -14162,9 +14162,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -14361,9 +14361,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -14560,9 +14560,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -14759,9 +14759,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -14958,9 +14958,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -15157,9 +15157,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -15356,9 +15356,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -15555,9 +15555,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -15754,9 +15754,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -15953,9 +15953,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -16152,9 +16152,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -16351,9 +16351,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -16550,9 +16550,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -16749,9 +16749,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -16948,9 +16948,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -17147,9 +17147,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -17346,9 +17346,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -17545,9 +17545,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -17744,9 +17744,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -17943,9 +17943,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -18142,9 +18142,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -18341,9 +18341,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -18540,9 +18540,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -18739,9 +18739,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -18938,9 +18938,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -19137,9 +19137,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -19336,9 +19336,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -19535,9 +19535,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -19734,9 +19734,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -19933,9 +19933,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -20132,9 +20132,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -20331,9 +20331,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -20530,9 +20530,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -20729,9 +20729,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -20928,9 +20928,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -21127,9 +21127,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -21326,9 +21326,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -21525,9 +21525,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -21724,9 +21724,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -21923,9 +21923,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -22122,9 +22122,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -22321,9 +22321,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -22520,9 +22520,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -22719,9 +22719,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -22918,9 +22918,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -23117,9 +23117,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -23316,9 +23316,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -23515,9 +23515,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -23714,9 +23714,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -23913,9 +23913,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -24112,9 +24112,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -24311,9 +24311,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -24510,9 +24510,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -24709,9 +24709,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -24908,9 +24908,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -25107,9 +25107,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -25306,9 +25306,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
@@ -25505,9 +25505,9 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeAttack>0.566929</VolumeAttack>
+        <VolumeDecay>0.642857</VolumeDecay>
+        <VolumeSustain>0.393701</VolumeSustain>
         <VolumeRelease>0.785714</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
