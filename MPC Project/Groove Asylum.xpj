@@ -52,13 +52,14 @@
     <File>.\Groove Asylum_[ProjectData]\Long Train Running Bongos 3.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Bridge B3 G3 E3.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Bridge F#4 B3 B2.WAV</File>
-    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro A4.WAV</File>
-    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro B3.WAV</File>
-    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro B4.WAV</File>
-    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro C#4.WAV</File>
-    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro D4.WAV</File>
-    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro E4.WAV</File>
-    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro F#4.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger Intro.WAV</File>
+    <File>C:\Users\david\Documents\GitHub\GrooveAsylum\Samples\Moves Like Jagger\Moves Like Jagger Intro A4.wav</File>
+    <File>C:\Users\david\Documents\GitHub\GrooveAsylum\Samples\Moves Like Jagger\Moves Like Jagger Intro B3.wav</File>
+    <File>C:\Users\david\Documents\GitHub\GrooveAsylum\Samples\Moves Like Jagger\Moves Like Jagger Intro B4.wav</File>
+    <File>C:\Users\david\Documents\GitHub\GrooveAsylum\Samples\Moves Like Jagger\Moves Like Jagger Intro C#4.wav</File>
+    <File>C:\Users\david\Documents\GitHub\GrooveAsylum\Samples\Moves Like Jagger\Moves Like Jagger Intro D4.wav</File>
+    <File>C:\Users\david\Documents\GitHub\GrooveAsylum\Samples\Moves Like Jagger\Moves Like Jagger Intro E4.wav</File>
+    <File>C:\Users\david\Documents\GitHub\GrooveAsylum\Samples\Moves Like Jagger\Moves Like Jagger Intro F#4.wav</File>
     <File>.\Groove Asylum_[ProjectData]\Treasure Intro.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Valerie Chorus Strings A#3 A#2 Normalised.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Valerie Chorus Strings C4 C3 Normalised.WAV</File>
@@ -104,9 +105,9 @@
     <File>.\Groove Asylum_[ProjectData]\Crazy.Keygroup.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Le Freak.Drum.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Treasure.Drum.xpm</File>
-    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger.Keygroup.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Valerie.Keygroup.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\We Are Family.Keygroup.xpm</File>
+    <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger.Keygroup.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Audio 001.Audio.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Midi Controller.mcn</File>
   </FileList>

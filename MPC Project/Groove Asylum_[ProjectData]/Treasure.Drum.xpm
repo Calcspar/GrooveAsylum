@@ -2667,7 +2667,7 @@
             <SliceEnd>114991</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>

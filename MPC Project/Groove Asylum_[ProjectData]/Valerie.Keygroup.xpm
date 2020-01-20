@@ -279,7 +279,7 @@
             <SliceEnd>499245</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -478,7 +478,7 @@
             <SliceEnd>499245</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -677,7 +677,7 @@
             <SliceEnd>499245</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -876,7 +876,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1075,7 +1075,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1274,7 +1274,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1473,7 +1473,7 @@
             <SliceEnd>343231</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1672,7 +1672,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1871,7 +1871,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2070,7 +2070,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2269,7 +2269,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2468,7 +2468,7 @@
             <SliceEnd>99849</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2667,7 +2667,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2866,7 +2866,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -3065,7 +3065,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -3264,7 +3264,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -3463,7 +3463,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -3662,7 +3662,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -3861,7 +3861,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -4060,7 +4060,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -4259,7 +4259,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -4458,7 +4458,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -4657,7 +4657,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -4856,7 +4856,7 @@
             <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>

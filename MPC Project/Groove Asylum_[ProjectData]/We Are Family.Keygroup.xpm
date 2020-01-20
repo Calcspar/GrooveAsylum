@@ -279,7 +279,7 @@
             <SliceEnd>352799</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -478,7 +478,7 @@
             <SliceEnd>352799</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -677,7 +677,7 @@
             <SliceEnd>352799</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -792,9 +792,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <LowNote>36</LowNote>
+        <HighNote>36</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -843,7 +843,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>112.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -867,16 +867,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>Crazy Chorus Strings C5 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>377999</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -991,9 +991,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <LowNote>84</LowNote>
+        <HighNote>84</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -1042,7 +1042,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>112.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1066,16 +1066,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>Crazy Chorus Strings C5 Normalised</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>377999</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1191,8 +1191,8 @@
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
         <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <HighNote>0</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -1241,7 +1241,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>20.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1265,16 +1265,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>Le Freak Clap</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>19844</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1389,9 +1389,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <LowNote>60</LowNote>
+        <HighNote>60</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -1426,10 +1426,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.000000</VolumeRelease>
+        <VolumeAttack>0.503937</VolumeAttack>
+        <VolumeDecay>0.488189</VolumeDecay>
+        <VolumeSustain>0.685039</VolumeSustain>
+        <VolumeRelease>0.708661</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -1440,7 +1440,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>60.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1464,16 +1464,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>We Are Family Intro A4</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>352799</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1588,9 +1588,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <LowNote>62</LowNote>
+        <HighNote>62</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -1625,10 +1625,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeAttack>0.503937</VolumeAttack>
+        <VolumeDecay>0.598425</VolumeDecay>
         <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.000000</VolumeRelease>
+        <VolumeRelease>0.677165</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -1639,7 +1639,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>60.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1663,16 +1663,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>We Are Family Intro D5</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>352799</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1787,9 +1787,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>0</LowNote>
-        <HighNote>127</HighNote>
-        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <LowNote>61</LowNote>
+        <HighNote>61</HighNote>
+        <IgnoreBaseNote>True</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -1824,10 +1824,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.000000</VolumeAttack>
-        <VolumeDecay>0.047244</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.000000</VolumeRelease>
+        <VolumeAttack>0.472441</VolumeAttack>
+        <VolumeDecay>0.472441</VolumeDecay>
+        <VolumeSustain>0.661417</VolumeSustain>
+        <VolumeRelease>0.677165</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -1838,7 +1838,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>120.000000</WarpTempo>
+        <WarpTempo>60.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1862,16 +1862,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
+            <SampleName>We Are Family Intro B4</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
+            <SliceEnd>352799</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
