@@ -8,7 +8,7 @@
     <Platform>Windows</Platform>
   </Version>
   <Program type="Keygroup">
-    <ProgramName>Valerie</ProgramName>
+    <ProgramName>We Are Family</ProgramName>
     <ProgramPads>{
     &quot;ProgramPads&quot;: {
         &quot;Universal&quot;: {
@@ -232,10 +232,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.385827</VolumeAttack>
-        <VolumeDecay>0.535714</VolumeDecay>
-        <VolumeSustain>0.750000</VolumeSustain>
-        <VolumeRelease>0.678571</VolumeRelease>
+        <VolumeAttack>0.322835</VolumeAttack>
+        <VolumeDecay>0.488189</VolumeDecay>
+        <VolumeSustain>0.685039</VolumeSustain>
+        <VolumeRelease>0.708661</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -246,7 +246,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>112.492981</WarpTempo>
+        <WarpTempo>60.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -270,16 +270,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie First Verse Wind C3 Normalised</SampleName>
+            <SampleName>We Are Family Intro A4</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>499245</SliceEnd>
+            <SliceEnd>352799</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -309,7 +309,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -339,7 +339,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -369,7 +369,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -431,10 +431,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.428571</VolumeAttack>
-        <VolumeDecay>0.500000</VolumeDecay>
-        <VolumeSustain>0.666667</VolumeSustain>
-        <VolumeRelease>0.642857</VolumeRelease>
+        <VolumeAttack>0.322835</VolumeAttack>
+        <VolumeDecay>0.488189</VolumeDecay>
+        <VolumeSustain>0.685039</VolumeSustain>
+        <VolumeRelease>0.700787</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -445,7 +445,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>85.930611</WarpTempo>
+        <WarpTempo>60.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -469,13 +469,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie First Verse Wind A#2 Normalised</SampleName>
+            <SampleName>We Are Family Intro B4</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>499245</SliceEnd>
+            <SliceEnd>352799</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
@@ -508,7 +508,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -538,7 +538,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -568,7 +568,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -630,10 +630,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.543307</VolumeAttack>
-        <VolumeDecay>0.660714</VolumeDecay>
-        <VolumeSustain>0.583333</VolumeSustain>
-        <VolumeRelease>0.677165</VolumeRelease>
+        <VolumeAttack>0.322835</VolumeAttack>
+        <VolumeDecay>0.488189</VolumeDecay>
+        <VolumeSustain>0.685039</VolumeSustain>
+        <VolumeRelease>0.708661</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -644,7 +644,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>88.440636</WarpTempo>
+        <WarpTempo>60.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -668,1008 +668,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie First Verse Wind D3 Normalised</SampleName>
+            <SampleName>We Are Family Intro D5</SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>499245</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="4">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>8</LowNote>
-        <HighNote>8</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.496063</VolumeAttack>
-        <VolumeDecay>0.433071</VolumeDecay>
-        <VolumeSustain>0.653543</VolumeSustain>
-        <VolumeRelease>1.000000</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie First Verse Outro Bells A#3 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="5">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>9</LowNote>
-        <HighNote>9</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.500000</VolumeAttack>
-        <VolumeDecay>0.464286</VolumeDecay>
-        <VolumeSustain>0.625000</VolumeSustain>
-        <VolumeRelease>1.000000</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie First Verse Outro Bells G#3 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="6">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>10</LowNote>
-        <HighNote>10</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.464286</VolumeAttack>
-        <VolumeDecay>0.482143</VolumeDecay>
-        <VolumeSustain>0.666667</VolumeSustain>
-        <VolumeRelease>1.000000</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie First Verse Outro Bells G3 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="7">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>11</LowNote>
-        <HighNote>11</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.482143</VolumeAttack>
-        <VolumeDecay>0.433071</VolumeDecay>
-        <VolumeSustain>0.708661</VolumeSustain>
-        <VolumeRelease>1.000000</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>20.000000</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie First Verse Outro Bells F3 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>343231</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="8">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>4</LowNote>
-        <HighNote>4</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.472441</VolumeAttack>
-        <VolumeDecay>0.393701</VolumeDecay>
-        <VolumeSustain>0.763780</VolumeSustain>
-        <VolumeRelease>0.771654</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Chorus Strings G4 D4 A#3 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
+            <SliceEnd>352799</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
@@ -1702,7 +707,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -1732,7 +737,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -1762,11 +767,11 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
-      <Instrument number="9">
+      <Instrument number="4">
         <AudioRoute>
           <AudioRoute>0</AudioRoute>
           <AudioRouteSubIndex>0</AudioRouteSubIndex>
@@ -1787,9 +792,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>5</LowNote>
-        <HighNote>5</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -1824,10 +829,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.433071</VolumeAttack>
-        <VolumeDecay>0.409449</VolumeDecay>
-        <VolumeSustain>0.677165</VolumeSustain>
-        <VolumeRelease>0.724409</VolumeRelease>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -1838,7 +843,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>70.666466</WarpTempo>
+        <WarpTempo>120.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -1862,16 +867,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Chorus Strings F4 C4 G#3 F3 Normalised</SampleName>
+            <SampleName></SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
+            <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -1901,7 +906,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -1931,7 +936,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -1961,7 +966,1002 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+        </Layers>
+      </Instrument>
+      <Instrument number="5">
+        <AudioRoute>
+          <AudioRoute>0</AudioRoute>
+          <AudioRouteSubIndex>0</AudioRouteSubIndex>
+          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
+          <InsertsEnabled>True</InsertsEnabled>
+        </AudioRoute>
+        <Send1>0.000000</Send1>
+        <Send2>0.000000</Send2>
+        <Send3>0.000000</Send3>
+        <Send4>0.000000</Send4>
+        <Volume>0.707946</Volume>
+        <Mute>False</Mute>
+        <Solo>False</Solo>
+        <Pan>0.500000</Pan>
+        <AutomationFilter>1</AutomationFilter>
+        <TuneCoarse>0</TuneCoarse>
+        <TuneFine>0</TuneFine>
+        <Mono>False</Mono>
+        <Polyphony>0</Polyphony>
+        <FilterKeytrack>0.000000</FilterKeytrack>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <ZonePlay>1</ZonePlay>
+        <MuteGroup>0</MuteGroup>
+        <MuteTarget1>0</MuteTarget1>
+        <MuteTarget2>0</MuteTarget2>
+        <MuteTarget3>0</MuteTarget3>
+        <MuteTarget4>0</MuteTarget4>
+        <SimultTarget1>0</SimultTarget1>
+        <SimultTarget2>0</SimultTarget2>
+        <SimultTarget3>0</SimultTarget3>
+        <SimultTarget4>0</SimultTarget4>
+        <LfoPitch>0.000000</LfoPitch>
+        <LfoCutoff>0.000000</LfoCutoff>
+        <LfoVolume>0.000000</LfoVolume>
+        <LfoPan>0.000000</LfoPan>
+        <OneShot>False</OneShot>
+        <FilterType>2</FilterType>
+        <Cutoff>1.000000</Cutoff>
+        <Resonance>0.000000</Resonance>
+        <FilterEnvAmt>0.000000</FilterEnvAmt>
+        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
+        <VelocityToStart>0.000000</VelocityToStart>
+        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
+        <VelocityToFilter>0.000000</VelocityToFilter>
+        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
+        <FilterAttack>0.000000</FilterAttack>
+        <FilterDecay>0.047244</FilterDecay>
+        <FilterSustain>1.000000</FilterSustain>
+        <FilterRelease>0.000000</FilterRelease>
+        <FilterHold>0.000000</FilterHold>
+        <FilterDecayType>True</FilterDecayType>
+        <FilterADEnvelope>True</FilterADEnvelope>
+        <VolumeHold>0.000000</VolumeHold>
+        <VolumeDecayType>True</VolumeDecayType>
+        <VolumeADEnvelope>True</VolumeADEnvelope>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
+        <VelocityToPitch>0.000000</VelocityToPitch>
+        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
+        <VelocitySensitivity>1.000000</VelocitySensitivity>
+        <VelocityToPan>0.000000</VelocityToPan>
+        <LFO>
+          <Type>Sine</Type>
+          <Rate>0.500000</Rate>
+          <Sync>0</Sync>
+          <Reset>False</Reset>
+        </LFO>
+        <WarpTempo>120.000000</WarpTempo>
+        <BpmLock>True</BpmLock>
+        <WarpEnable>False</WarpEnable>
+        <StretchPercentage>100</StretchPercentage>
+        <Layers>
+          <Layer number="1">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="2">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="3">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="4">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+        </Layers>
+      </Instrument>
+      <Instrument number="6">
+        <AudioRoute>
+          <AudioRoute>0</AudioRoute>
+          <AudioRouteSubIndex>0</AudioRouteSubIndex>
+          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
+          <InsertsEnabled>True</InsertsEnabled>
+        </AudioRoute>
+        <Send1>0.000000</Send1>
+        <Send2>0.000000</Send2>
+        <Send3>0.000000</Send3>
+        <Send4>0.000000</Send4>
+        <Volume>0.707946</Volume>
+        <Mute>False</Mute>
+        <Solo>False</Solo>
+        <Pan>0.500000</Pan>
+        <AutomationFilter>1</AutomationFilter>
+        <TuneCoarse>0</TuneCoarse>
+        <TuneFine>0</TuneFine>
+        <Mono>False</Mono>
+        <Polyphony>0</Polyphony>
+        <FilterKeytrack>0.000000</FilterKeytrack>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <ZonePlay>1</ZonePlay>
+        <MuteGroup>0</MuteGroup>
+        <MuteTarget1>0</MuteTarget1>
+        <MuteTarget2>0</MuteTarget2>
+        <MuteTarget3>0</MuteTarget3>
+        <MuteTarget4>0</MuteTarget4>
+        <SimultTarget1>0</SimultTarget1>
+        <SimultTarget2>0</SimultTarget2>
+        <SimultTarget3>0</SimultTarget3>
+        <SimultTarget4>0</SimultTarget4>
+        <LfoPitch>0.000000</LfoPitch>
+        <LfoCutoff>0.000000</LfoCutoff>
+        <LfoVolume>0.000000</LfoVolume>
+        <LfoPan>0.000000</LfoPan>
+        <OneShot>False</OneShot>
+        <FilterType>2</FilterType>
+        <Cutoff>1.000000</Cutoff>
+        <Resonance>0.000000</Resonance>
+        <FilterEnvAmt>0.000000</FilterEnvAmt>
+        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
+        <VelocityToStart>0.000000</VelocityToStart>
+        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
+        <VelocityToFilter>0.000000</VelocityToFilter>
+        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
+        <FilterAttack>0.000000</FilterAttack>
+        <FilterDecay>0.047244</FilterDecay>
+        <FilterSustain>1.000000</FilterSustain>
+        <FilterRelease>0.000000</FilterRelease>
+        <FilterHold>0.000000</FilterHold>
+        <FilterDecayType>True</FilterDecayType>
+        <FilterADEnvelope>True</FilterADEnvelope>
+        <VolumeHold>0.000000</VolumeHold>
+        <VolumeDecayType>True</VolumeDecayType>
+        <VolumeADEnvelope>True</VolumeADEnvelope>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
+        <VelocityToPitch>0.000000</VelocityToPitch>
+        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
+        <VelocitySensitivity>1.000000</VelocitySensitivity>
+        <VelocityToPan>0.000000</VelocityToPan>
+        <LFO>
+          <Type>Sine</Type>
+          <Rate>0.500000</Rate>
+          <Sync>0</Sync>
+          <Reset>False</Reset>
+        </LFO>
+        <WarpTempo>120.000000</WarpTempo>
+        <BpmLock>True</BpmLock>
+        <WarpEnable>False</WarpEnable>
+        <StretchPercentage>100</StretchPercentage>
+        <Layers>
+          <Layer number="1">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="2">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="3">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="4">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+        </Layers>
+      </Instrument>
+      <Instrument number="7">
+        <AudioRoute>
+          <AudioRoute>0</AudioRoute>
+          <AudioRouteSubIndex>0</AudioRouteSubIndex>
+          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
+          <InsertsEnabled>True</InsertsEnabled>
+        </AudioRoute>
+        <Send1>0.000000</Send1>
+        <Send2>0.000000</Send2>
+        <Send3>0.000000</Send3>
+        <Send4>0.000000</Send4>
+        <Volume>0.707946</Volume>
+        <Mute>False</Mute>
+        <Solo>False</Solo>
+        <Pan>0.500000</Pan>
+        <AutomationFilter>1</AutomationFilter>
+        <TuneCoarse>0</TuneCoarse>
+        <TuneFine>0</TuneFine>
+        <Mono>False</Mono>
+        <Polyphony>0</Polyphony>
+        <FilterKeytrack>0.000000</FilterKeytrack>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <ZonePlay>1</ZonePlay>
+        <MuteGroup>0</MuteGroup>
+        <MuteTarget1>0</MuteTarget1>
+        <MuteTarget2>0</MuteTarget2>
+        <MuteTarget3>0</MuteTarget3>
+        <MuteTarget4>0</MuteTarget4>
+        <SimultTarget1>0</SimultTarget1>
+        <SimultTarget2>0</SimultTarget2>
+        <SimultTarget3>0</SimultTarget3>
+        <SimultTarget4>0</SimultTarget4>
+        <LfoPitch>0.000000</LfoPitch>
+        <LfoCutoff>0.000000</LfoCutoff>
+        <LfoVolume>0.000000</LfoVolume>
+        <LfoPan>0.000000</LfoPan>
+        <OneShot>False</OneShot>
+        <FilterType>2</FilterType>
+        <Cutoff>1.000000</Cutoff>
+        <Resonance>0.000000</Resonance>
+        <FilterEnvAmt>0.000000</FilterEnvAmt>
+        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
+        <VelocityToStart>0.000000</VelocityToStart>
+        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
+        <VelocityToFilter>0.000000</VelocityToFilter>
+        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
+        <FilterAttack>0.000000</FilterAttack>
+        <FilterDecay>0.047244</FilterDecay>
+        <FilterSustain>1.000000</FilterSustain>
+        <FilterRelease>0.000000</FilterRelease>
+        <FilterHold>0.000000</FilterHold>
+        <FilterDecayType>True</FilterDecayType>
+        <FilterADEnvelope>True</FilterADEnvelope>
+        <VolumeHold>0.000000</VolumeHold>
+        <VolumeDecayType>True</VolumeDecayType>
+        <VolumeADEnvelope>True</VolumeADEnvelope>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
+        <VelocityToPitch>0.000000</VelocityToPitch>
+        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
+        <VelocitySensitivity>1.000000</VelocitySensitivity>
+        <VelocityToPan>0.000000</VelocityToPan>
+        <LFO>
+          <Type>Sine</Type>
+          <Rate>0.500000</Rate>
+          <Sync>0</Sync>
+          <Reset>False</Reset>
+        </LFO>
+        <WarpTempo>120.000000</WarpTempo>
+        <BpmLock>True</BpmLock>
+        <WarpEnable>False</WarpEnable>
+        <StretchPercentage>100</StretchPercentage>
+        <Layers>
+          <Layer number="1">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="2">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="3">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="4">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+        </Layers>
+      </Instrument>
+      <Instrument number="8">
+        <AudioRoute>
+          <AudioRoute>0</AudioRoute>
+          <AudioRouteSubIndex>0</AudioRouteSubIndex>
+          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
+          <InsertsEnabled>True</InsertsEnabled>
+        </AudioRoute>
+        <Send1>0.000000</Send1>
+        <Send2>0.000000</Send2>
+        <Send3>0.000000</Send3>
+        <Send4>0.000000</Send4>
+        <Volume>0.707946</Volume>
+        <Mute>False</Mute>
+        <Solo>False</Solo>
+        <Pan>0.500000</Pan>
+        <AutomationFilter>1</AutomationFilter>
+        <TuneCoarse>0</TuneCoarse>
+        <TuneFine>0</TuneFine>
+        <Mono>False</Mono>
+        <Polyphony>0</Polyphony>
+        <FilterKeytrack>0.000000</FilterKeytrack>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <ZonePlay>1</ZonePlay>
+        <MuteGroup>0</MuteGroup>
+        <MuteTarget1>0</MuteTarget1>
+        <MuteTarget2>0</MuteTarget2>
+        <MuteTarget3>0</MuteTarget3>
+        <MuteTarget4>0</MuteTarget4>
+        <SimultTarget1>0</SimultTarget1>
+        <SimultTarget2>0</SimultTarget2>
+        <SimultTarget3>0</SimultTarget3>
+        <SimultTarget4>0</SimultTarget4>
+        <LfoPitch>0.000000</LfoPitch>
+        <LfoCutoff>0.000000</LfoCutoff>
+        <LfoVolume>0.000000</LfoVolume>
+        <LfoPan>0.000000</LfoPan>
+        <OneShot>False</OneShot>
+        <FilterType>2</FilterType>
+        <Cutoff>1.000000</Cutoff>
+        <Resonance>0.000000</Resonance>
+        <FilterEnvAmt>0.000000</FilterEnvAmt>
+        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
+        <VelocityToStart>0.000000</VelocityToStart>
+        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
+        <VelocityToFilter>0.000000</VelocityToFilter>
+        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
+        <FilterAttack>0.000000</FilterAttack>
+        <FilterDecay>0.047244</FilterDecay>
+        <FilterSustain>1.000000</FilterSustain>
+        <FilterRelease>0.000000</FilterRelease>
+        <FilterHold>0.000000</FilterHold>
+        <FilterDecayType>True</FilterDecayType>
+        <FilterADEnvelope>True</FilterADEnvelope>
+        <VolumeHold>0.000000</VolumeHold>
+        <VolumeDecayType>True</VolumeDecayType>
+        <VolumeADEnvelope>True</VolumeADEnvelope>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
+        <VelocityToPitch>0.000000</VelocityToPitch>
+        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
+        <VelocitySensitivity>1.000000</VelocitySensitivity>
+        <VelocityToPan>0.000000</VelocityToPan>
+        <LFO>
+          <Type>Sine</Type>
+          <Rate>0.500000</Rate>
+          <Sync>0</Sync>
+          <Reset>False</Reset>
+        </LFO>
+        <WarpTempo>120.000000</WarpTempo>
+        <BpmLock>True</BpmLock>
+        <WarpEnable>False</WarpEnable>
+        <StretchPercentage>100</StretchPercentage>
+        <Layers>
+          <Layer number="1">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="2">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="3">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="4">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+        </Layers>
+      </Instrument>
+      <Instrument number="9">
+        <AudioRoute>
+          <AudioRoute>0</AudioRoute>
+          <AudioRouteSubIndex>0</AudioRouteSubIndex>
+          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
+          <InsertsEnabled>True</InsertsEnabled>
+        </AudioRoute>
+        <Send1>0.000000</Send1>
+        <Send2>0.000000</Send2>
+        <Send3>0.000000</Send3>
+        <Send4>0.000000</Send4>
+        <Volume>0.707946</Volume>
+        <Mute>False</Mute>
+        <Solo>False</Solo>
+        <Pan>0.500000</Pan>
+        <AutomationFilter>1</AutomationFilter>
+        <TuneCoarse>0</TuneCoarse>
+        <TuneFine>0</TuneFine>
+        <Mono>False</Mono>
+        <Polyphony>0</Polyphony>
+        <FilterKeytrack>0.000000</FilterKeytrack>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
+        <ZonePlay>1</ZonePlay>
+        <MuteGroup>0</MuteGroup>
+        <MuteTarget1>0</MuteTarget1>
+        <MuteTarget2>0</MuteTarget2>
+        <MuteTarget3>0</MuteTarget3>
+        <MuteTarget4>0</MuteTarget4>
+        <SimultTarget1>0</SimultTarget1>
+        <SimultTarget2>0</SimultTarget2>
+        <SimultTarget3>0</SimultTarget3>
+        <SimultTarget4>0</SimultTarget4>
+        <LfoPitch>0.000000</LfoPitch>
+        <LfoCutoff>0.000000</LfoCutoff>
+        <LfoVolume>0.000000</LfoVolume>
+        <LfoPan>0.000000</LfoPan>
+        <OneShot>False</OneShot>
+        <FilterType>2</FilterType>
+        <Cutoff>1.000000</Cutoff>
+        <Resonance>0.000000</Resonance>
+        <FilterEnvAmt>0.000000</FilterEnvAmt>
+        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
+        <VelocityToStart>0.000000</VelocityToStart>
+        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
+        <VelocityToFilter>0.000000</VelocityToFilter>
+        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
+        <FilterAttack>0.000000</FilterAttack>
+        <FilterDecay>0.047244</FilterDecay>
+        <FilterSustain>1.000000</FilterSustain>
+        <FilterRelease>0.000000</FilterRelease>
+        <FilterHold>0.000000</FilterHold>
+        <FilterDecayType>True</FilterDecayType>
+        <FilterADEnvelope>True</FilterADEnvelope>
+        <VolumeHold>0.000000</VolumeHold>
+        <VolumeDecayType>True</VolumeDecayType>
+        <VolumeADEnvelope>True</VolumeADEnvelope>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
+        <VelocityToPitch>0.000000</VelocityToPitch>
+        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
+        <VelocitySensitivity>1.000000</VelocitySensitivity>
+        <VelocityToPan>0.000000</VelocityToPan>
+        <LFO>
+          <Type>Sine</Type>
+          <Rate>0.500000</Rate>
+          <Sync>0</Sync>
+          <Reset>False</Reset>
+        </LFO>
+        <WarpTempo>120.000000</WarpTempo>
+        <BpmLock>True</BpmLock>
+        <WarpEnable>False</WarpEnable>
+        <StretchPercentage>100</StretchPercentage>
+        <Layers>
+          <Layer number="1">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="2">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="3">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
+          </Layer>
+          <Layer number="4">
+            <Active>True</Active>
+            <Volume>1.000000</Volume>
+            <Pan>0.500000</Pan>
+            <Pitch>0.000000</Pitch>
+            <TuneCoarse>0</TuneCoarse>
+            <TuneFine>0</TuneFine>
+            <VelStart>0</VelStart>
+            <VelEnd>127</VelEnd>
+            <SampleStart>0</SampleStart>
+            <SampleEnd>0</SampleEnd>
+            <Loop>False</Loop>
+            <LoopStart>0</LoopStart>
+            <LoopEnd>0</LoopEnd>
+            <LoopCrossfadeLength>0</LoopCrossfadeLength>
+            <LoopTune>0</LoopTune>
+            <Mute>False</Mute>
+            <RootNote>0</RootNote>
+            <KeyTrack>False</KeyTrack>
+            <SampleName></SampleName>
+            <SampleFile></SampleFile>
+            <SliceIndex>129</SliceIndex>
+            <Direction>0</Direction>
+            <Offset>0</Offset>
+            <SliceStart>0</SliceStart>
+            <SliceEnd>0</SliceEnd>
+            <SliceLoopStart>0</SliceLoopStart>
+            <SliceLoop>0</SliceLoop>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -1987,8 +1987,8 @@
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
         <LowNote>0</LowNote>
-        <HighNote>0</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -2023,10 +2023,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.511811</VolumeAttack>
-        <VolumeDecay>0.456693</VolumeDecay>
-        <VolumeSustain>0.653543</VolumeSustain>
-        <VolumeRelease>0.716535</VolumeRelease>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -2037,7 +2037,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>70.666466</WarpTempo>
+        <WarpTempo>120.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2061,13 +2061,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Chorus Strings C4 C3 Normalised</SampleName>
+            <SampleName></SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
+            <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
@@ -2100,7 +2100,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -2130,7 +2130,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -2160,7 +2160,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -2185,9 +2185,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>1</LowNote>
-        <HighNote>1</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -2222,10 +2222,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.456693</VolumeAttack>
-        <VolumeDecay>0.377953</VolumeDecay>
-        <VolumeSustain>0.669291</VolumeSustain>
-        <VolumeRelease>0.692913</VolumeRelease>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -2236,7 +2236,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>70.666466</WarpTempo>
+        <WarpTempo>120.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2260,16 +2260,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Chorus Strings A#3 A#2 Normalised</SampleName>
+            <SampleName></SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
+            <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2299,7 +2299,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -2329,7 +2329,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -2359,7 +2359,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -2384,9 +2384,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>2</LowNote>
-        <HighNote>2</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -2421,10 +2421,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.669291</VolumeAttack>
-        <VolumeDecay>0.511811</VolumeDecay>
-        <VolumeSustain>0.960630</VolumeSustain>
-        <VolumeRelease>1.000000</VolumeRelease>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -2435,7 +2435,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>105.999001</WarpTempo>
+        <WarpTempo>120.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2459,13 +2459,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Chorus Strings F3 F2 Normalised</SampleName>
+            <SampleName></SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>99849</SliceEnd>
+            <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
@@ -2498,7 +2498,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -2528,7 +2528,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -2558,7 +2558,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -2583,9 +2583,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>28</LowNote>
-        <HighNote>28</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -2620,10 +2620,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.480315</VolumeAttack>
-        <VolumeDecay>0.433071</VolumeDecay>
-        <VolumeSustain>0.732283</VolumeSustain>
-        <VolumeRelease>0.653543</VolumeRelease>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -2634,7 +2634,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>70.666466</WarpTempo>
+        <WarpTempo>120.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2658,16 +2658,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings G3 D#3 Normalised</SampleName>
+            <SampleName></SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
+            <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2697,7 +2697,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -2727,7 +2727,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -2757,7 +2757,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -2782,9 +2782,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>29</LowNote>
-        <HighNote>29</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -2819,10 +2819,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.503937</VolumeAttack>
-        <VolumeDecay>0.377953</VolumeDecay>
-        <VolumeSustain>0.590551</VolumeSustain>
-        <VolumeRelease>0.535433</VolumeRelease>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -2833,7 +2833,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>70.666466</WarpTempo>
+        <WarpTempo>120.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -2857,16 +2857,16 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings A#3 Normalised</SampleName>
+            <SampleName></SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
+            <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="2">
             <Active>True</Active>
@@ -2896,7 +2896,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -2926,7 +2926,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -2956,7 +2956,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -2981,9 +2981,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>30</LowNote>
-        <HighNote>30</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -3018,10 +3018,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.440945</VolumeAttack>
-        <VolumeDecay>0.377953</VolumeDecay>
-        <VolumeSustain>0.637795</VolumeSustain>
-        <VolumeRelease>0.653543</VolumeRelease>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
+        <VolumeSustain>1.000000</VolumeSustain>
+        <VolumeRelease>0.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -3032,7 +3032,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>70.666466</WarpTempo>
+        <WarpTempo>120.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -3056,13 +3056,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings G3 Normalised</SampleName>
+            <SampleName></SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
+            <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
@@ -3095,7 +3095,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -3125,7 +3125,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="4">
             <Active>True</Active>
@@ -3155,7 +3155,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -3180,9 +3180,9 @@
         <Mono>False</Mono>
         <Polyphony>0</Polyphony>
         <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>31</LowNote>
-        <HighNote>31</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
+        <LowNote>0</LowNote>
+        <HighNote>127</HighNote>
+        <IgnoreBaseNote>False</IgnoreBaseNote>
         <ZonePlay>1</ZonePlay>
         <MuteGroup>0</MuteGroup>
         <MuteTarget1>0</MuteTarget1>
@@ -3217,10 +3217,10 @@
         <VolumeHold>0.000000</VolumeHold>
         <VolumeDecayType>True</VolumeDecayType>
         <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.417323</VolumeAttack>
-        <VolumeDecay>0.456693</VolumeDecay>
+        <VolumeAttack>0.000000</VolumeAttack>
+        <VolumeDecay>0.047244</VolumeDecay>
         <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.645669</VolumeRelease>
+        <VolumeRelease>0.000000</VolumeRelease>
         <VelocityToPitch>0.000000</VelocityToPitch>
         <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
         <VelocitySensitivity>1.000000</VelocitySensitivity>
@@ -3231,7 +3231,7 @@
           <Sync>0</Sync>
           <Reset>False</Reset>
         </LFO>
-        <WarpTempo>70.666466</WarpTempo>
+        <WarpTempo>120.000000</WarpTempo>
         <BpmLock>True</BpmLock>
         <WarpEnable>False</WarpEnable>
         <StretchPercentage>100</StretchPercentage>
@@ -3255,13 +3255,13 @@
             <Mute>False</Mute>
             <RootNote>0</RootNote>
             <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings F3 Normalised</SampleName>
+            <SampleName></SampleName>
             <SampleFile></SampleFile>
             <SliceIndex>129</SliceIndex>
             <Direction>0</Direction>
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
+            <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
@@ -3294,7 +3294,7 @@
             <SliceEnd>0</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
+            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
           <Layer number="3">
             <Active>True</Active>
@@ -3322,209 +3322,10 @@
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
             <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="17">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>24</LowNote>
-        <HighNote>24</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.354331</VolumeAttack>
-        <VolumeDecay>0.409449</VolumeDecay>
-        <VolumeSustain>0.574803</VolumeSustain>
-        <VolumeRelease>0.645669</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings D#3 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
           </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
           <Layer number="4">
             <Active>True</Active>
             <Volume>1.000000</Volume>
@@ -3551,1402 +3352,9 @@
             <Offset>0</Offset>
             <SliceStart>0</SliceStart>
             <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="18">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>25</LowNote>
-        <HighNote>25</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.433071</VolumeAttack>
-        <VolumeDecay>0.409449</VolumeDecay>
-        <VolumeSustain>0.622047</VolumeSustain>
-        <VolumeRelease>0.590551</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings C4 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
             <SliceLoopStart>0</SliceLoopStart>
             <SliceLoop>0</SliceLoop>
             <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="19">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>26</LowNote>
-        <HighNote>26</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.480315</VolumeAttack>
-        <VolumeDecay>0.472441</VolumeDecay>
-        <VolumeSustain>0.700787</VolumeSustain>
-        <VolumeRelease>0.629921</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings D#4 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="20">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>27</LowNote>
-        <HighNote>27</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.464567</VolumeAttack>
-        <VolumeDecay>0.511811</VolumeDecay>
-        <VolumeSustain>0.724409</VolumeSustain>
-        <VolumeRelease>0.582677</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings F4 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="21">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>20</LowNote>
-        <HighNote>20</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.393701</VolumeAttack>
-        <VolumeDecay>0.535433</VolumeDecay>
-        <VolumeSustain>0.669291</VolumeSustain>
-        <VolumeRelease>0.653543</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings G4 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="22">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>21</LowNote>
-        <HighNote>21</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.645669</VolumeAttack>
-        <VolumeDecay>0.409449</VolumeDecay>
-        <VolumeSustain>1.000000</VolumeSustain>
-        <VolumeRelease>0.582677</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings A#4 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="23">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>22</LowNote>
-        <HighNote>22</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.409449</VolumeAttack>
-        <VolumeDecay>0.385827</VolumeDecay>
-        <VolumeSustain>0.637795</VolumeSustain>
-        <VolumeRelease>0.425197</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings C5 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-        </Layers>
-      </Instrument>
-      <Instrument number="24">
-        <AudioRoute>
-          <AudioRoute>0</AudioRoute>
-          <AudioRouteSubIndex>0</AudioRouteSubIndex>
-          <AudioRouteChannelBitmap>3</AudioRouteChannelBitmap>
-          <InsertsEnabled>True</InsertsEnabled>
-        </AudioRoute>
-        <Send1>0.000000</Send1>
-        <Send2>0.000000</Send2>
-        <Send3>0.000000</Send3>
-        <Send4>0.000000</Send4>
-        <Volume>0.707946</Volume>
-        <Mute>False</Mute>
-        <Solo>False</Solo>
-        <Pan>0.500000</Pan>
-        <AutomationFilter>1</AutomationFilter>
-        <TuneCoarse>0</TuneCoarse>
-        <TuneFine>0</TuneFine>
-        <Mono>False</Mono>
-        <Polyphony>0</Polyphony>
-        <FilterKeytrack>0.000000</FilterKeytrack>
-        <LowNote>23</LowNote>
-        <HighNote>23</HighNote>
-        <IgnoreBaseNote>True</IgnoreBaseNote>
-        <ZonePlay>1</ZonePlay>
-        <MuteGroup>0</MuteGroup>
-        <MuteTarget1>0</MuteTarget1>
-        <MuteTarget2>0</MuteTarget2>
-        <MuteTarget3>0</MuteTarget3>
-        <MuteTarget4>0</MuteTarget4>
-        <SimultTarget1>0</SimultTarget1>
-        <SimultTarget2>0</SimultTarget2>
-        <SimultTarget3>0</SimultTarget3>
-        <SimultTarget4>0</SimultTarget4>
-        <LfoPitch>0.000000</LfoPitch>
-        <LfoCutoff>0.000000</LfoCutoff>
-        <LfoVolume>0.000000</LfoVolume>
-        <LfoPan>0.000000</LfoPan>
-        <OneShot>False</OneShot>
-        <FilterType>2</FilterType>
-        <Cutoff>1.000000</Cutoff>
-        <Resonance>0.000000</Resonance>
-        <FilterEnvAmt>0.000000</FilterEnvAmt>
-        <AfterTouchToFilter>0.000000</AfterTouchToFilter>
-        <VelocityToStart>0.000000</VelocityToStart>
-        <VelocityToFilterAttack>0.000000</VelocityToFilterAttack>
-        <VelocityToFilter>0.000000</VelocityToFilter>
-        <VelocityToFilterEnvelope>0.000000</VelocityToFilterEnvelope>
-        <FilterAttack>0.000000</FilterAttack>
-        <FilterDecay>0.047244</FilterDecay>
-        <FilterSustain>1.000000</FilterSustain>
-        <FilterRelease>0.000000</FilterRelease>
-        <FilterHold>0.000000</FilterHold>
-        <FilterDecayType>True</FilterDecayType>
-        <FilterADEnvelope>True</FilterADEnvelope>
-        <VolumeHold>0.000000</VolumeHold>
-        <VolumeDecayType>True</VolumeDecayType>
-        <VolumeADEnvelope>True</VolumeADEnvelope>
-        <VolumeAttack>0.433071</VolumeAttack>
-        <VolumeDecay>0.511811</VolumeDecay>
-        <VolumeSustain>0.574803</VolumeSustain>
-        <VolumeRelease>0.606299</VolumeRelease>
-        <VelocityToPitch>0.000000</VelocityToPitch>
-        <VelocityToVolumeAttack>0.000000</VelocityToVolumeAttack>
-        <VelocitySensitivity>1.000000</VelocitySensitivity>
-        <VelocityToPan>0.000000</VelocityToPan>
-        <LFO>
-          <Type>Sine</Type>
-          <Rate>0.500000</Rate>
-          <Sync>0</Sync>
-          <Reset>False</Reset>
-        </LFO>
-        <WarpTempo>70.666466</WarpTempo>
-        <BpmLock>True</BpmLock>
-        <WarpEnable>False</WarpEnable>
-        <StretchPercentage>100</StretchPercentage>
-        <Layers>
-          <Layer number="1">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName>Valerie Second Verse Strings A#3 D3 Normalised</SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>299547</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>0</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="2">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="3">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
-          </Layer>
-          <Layer number="4">
-            <Active>True</Active>
-            <Volume>1.000000</Volume>
-            <Pan>0.500000</Pan>
-            <Pitch>0.000000</Pitch>
-            <TuneCoarse>0</TuneCoarse>
-            <TuneFine>0</TuneFine>
-            <VelStart>0</VelStart>
-            <VelEnd>127</VelEnd>
-            <SampleStart>0</SampleStart>
-            <SampleEnd>0</SampleEnd>
-            <Loop>False</Loop>
-            <LoopStart>0</LoopStart>
-            <LoopEnd>0</LoopEnd>
-            <LoopCrossfadeLength>0</LoopCrossfadeLength>
-            <LoopTune>0</LoopTune>
-            <Mute>False</Mute>
-            <RootNote>0</RootNote>
-            <KeyTrack>False</KeyTrack>
-            <SampleName></SampleName>
-            <SampleFile></SampleFile>
-            <SliceIndex>129</SliceIndex>
-            <Direction>0</Direction>
-            <Offset>0</Offset>
-            <SliceStart>0</SliceStart>
-            <SliceEnd>0</SliceEnd>
-            <SliceLoopStart>0</SliceLoopStart>
-            <SliceLoop>0</SliceLoop>
-            <SliceLoopCrossFadeLength>-1</SliceLoopCrossFadeLength>
           </Layer>
         </Layers>
       </Instrument>
@@ -5724,7 +4132,7 @@
       </PadGroup>
     </PadGroupMap>
     <KeygroupMasterTranspose>0.500000</KeygroupMasterTranspose>
-    <KeygroupNumKeygroups>24</KeygroupNumKeygroups>
+    <KeygroupNumKeygroups>16</KeygroupNumKeygroups>
     <KeygroupPitchBendRange>0.000000</KeygroupPitchBendRange>
     <KeygroupWheelToLfo>0.000000</KeygroupWheelToLfo>
     <KeygroupAftertouchToFilter>0.000000</KeygroupAftertouchToFilter>

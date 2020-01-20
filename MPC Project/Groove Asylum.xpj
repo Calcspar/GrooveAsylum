@@ -44,6 +44,7 @@
     <File>.\Groove Asylum_[ProjectData]\Get Lucky Piano Intro 2.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Get Lucky Piano Intro 3.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Get Lucky Piano Intro 4.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\Intro A4.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Le Freak Clap.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Le Freak Strings 1.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Long Train Running Bongos 1.WAV</File>
@@ -93,6 +94,9 @@
     <File>.\Groove Asylum_[ProjectData]\Valerie Second Verse Strings G3 D#3 Normalised.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Valerie Second Verse Strings G3 Normalised.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\Valerie Second Verse Strings G4 Normalised.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\We Are Family Intro A4.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\We Are Family Intro B4.WAV</File>
+    <File>.\Groove Asylum_[ProjectData]\We Are Family Intro D5.WAV</File>
     <File>.\Groove Asylum_[ProjectData]\CV 001.CV.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Midi 001.Midi.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Get Lucky.Drum.xpm</File>
@@ -102,6 +106,7 @@
     <File>.\Groove Asylum_[ProjectData]\Treasure.Drum.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Moves Like Jagger.Keygroup.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Valerie.Keygroup.xpm</File>
+    <File>.\Groove Asylum_[ProjectData]\We Are Family.Keygroup.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Audio 001.Audio.xpm</File>
     <File>.\Groove Asylum_[ProjectData]\Midi Controller.mcn</File>
   </FileList>
