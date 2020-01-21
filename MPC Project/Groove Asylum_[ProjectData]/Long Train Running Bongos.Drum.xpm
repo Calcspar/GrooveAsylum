@@ -2600,7 +2600,7 @@
         <LfoCutoff>0.000000</LfoCutoff>
         <LfoVolume>0.000000</LfoVolume>
         <LfoPan>0.000000</LfoPan>
-        <OneShot>True</OneShot>
+        <OneShot>False</OneShot>
         <FilterType>2</FilterType>
         <Cutoff>1.000000</Cutoff>
         <Resonance>0.000000</Resonance>
